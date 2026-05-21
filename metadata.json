@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NOORI EV ",
+  "description": "Authorized electric scooter dealership for NOORI EV. Explore our range of premium electric scooters and dealership opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
